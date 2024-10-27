@@ -1,9 +1,10 @@
-### Hi guys! Welcome to my code corner👋
+### Hi everyone👋
 
-- 🔭 I’m currently working on <strong>ASP.NET MVC and ASP.NET MVC Core</strong>
-- 🌱 I’m currently learning <strong>Layered Architecture, Amazon Web Services</strong>
-- 👯 And, if you have suitable opportunities, we can collaborate on the project and I can take the development on.
+- 🔭 I’m currently working on <strong>Service Management Systems</strong>
+- 🌱 I’m currently learning <strong>Project Management on Managed Services</strong>
+- 👯 And, if you have suitable opportunities, we can collaborate on the project and I can take manage on.
 - 📝 Also, when I have free time, I write articles about AI Technologies and software world on http://www.second-layer.net/
-- 💬 Ask me about software processes 
+- 💬 Ask me about managed services!
 - 📫 How to reach me => from rahime.2905@gmail.com
-- 🦉So, happy coding!
+- 🦉 So, good luck!
+
